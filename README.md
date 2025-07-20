@@ -50,6 +50,7 @@
     </style>
 </head>
 <body>
+<p> jay malikk</p>
     <div class="header">
         <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram Logo">
         <input type="text" placeholder="Search">
